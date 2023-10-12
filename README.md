@@ -18,7 +18,9 @@
 
 <div>
   <a href="https://www.instagram.com/m4theus_he/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  ![Snake animation](https://github.com/MatheusApresi/MatheusApresi/blob/output/github-contribution-grid-snake.svg)
 </div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MatheusApresi&repo=MatheusApresi&theme=react)](https://github.com/MatheusApresi/MatheusApresi)
 
 
 <!--
