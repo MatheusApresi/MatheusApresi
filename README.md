@@ -24,6 +24,7 @@
 <div align="center">
 
   ![Snake animation](https://github.com/MatheusApresi/MatheusApresi/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/MatheusApresi/MatheusApresi/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
