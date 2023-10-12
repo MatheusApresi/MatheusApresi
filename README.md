@@ -18,6 +18,11 @@
 
 <div>
   <a href="https://www.instagram.com/m4theus_he/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  ![snake gif](https://github.com/MatheusApresi/MatheusApresi/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
