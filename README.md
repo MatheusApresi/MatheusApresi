@@ -1,9 +1,13 @@
-### Oi! Eu sou o Matheus
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Oii++pessoas!!%F0%9F%91%8B;Me+chamo+Matheus+Henrique+)](https://github.com/MatheusApresi)
+
+### Sejam Bem-Vindos!
 
 <div>
   <a href="https://github.com/MatheusApresi">
-  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&theme=shadow_blue&show_icons=true"/>
-  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout-compact&langs_count=16&theme=shadow_blue"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&show_icons=true&theme=dark_blue"/>
+  <img height="160em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout=compact&langs_count=7&theme=dark_blue"/> 
 </div>
 
 <div align="center" valign="top"><br>
