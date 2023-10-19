@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/MatheusApresi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&show_icons=true&theme=dark_blue"/>
-  <img height="160em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout=compact&langs_count=7&theme=dark_blue"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&show_icons=true&theme=tokyonight"/>
+  <img height="160em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
 <div align="center">
 <p>
