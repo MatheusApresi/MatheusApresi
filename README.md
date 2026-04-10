@@ -26,7 +26,7 @@
 - ☕ Sempre cabe uma pausa para um cafézinho  
 - 🧠 Gosto de transformar problemas do dia a dia em soluções práticas  
 
-> “A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles.”
+> “A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles.” — Sérgio Arena
 
 ---
 
