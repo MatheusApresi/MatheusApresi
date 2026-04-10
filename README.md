@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Olá+Mundo!!!+👋;Eu+sou+Matheus+Henrique;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=OLA++MUNDO!!!%F0%9F%91%8B;Me+chamo+Matheus+Henrique+)](https://github.com/MatheusApresi)
 </p>
 
 <p align="center">
