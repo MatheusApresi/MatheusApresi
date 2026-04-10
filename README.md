@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/GitHub-MatheusApresi-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/seuusuario/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-seuusuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-seuusuario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -40,12 +40,19 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800"
+    alt="Estatísticas do GitHub"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusApresi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800"
+    alt="Top linguagens"
+  />
 </p>
 
 ---
