@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://github.com/MatheusApresi">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=OLA+MUNDO!!!+👋;Me+chamo+Matheus+Henrique" 
-      alt="Typing SVG" 
-    />
+    <img src="https://readme-typing-svg.demolab.com?lines=OLA+MUNDO!!!;Me+chamo+Matheus+Henrique&center=true&width=500&color=C9D1D9" />
   </a>
 </p>
 
