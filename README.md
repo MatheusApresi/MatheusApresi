@@ -1,5 +1,7 @@
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=OLA++MUNDO!!!%F0%9F%91%8B;Me+chamo+Matheus+Henrique+)](https://github.com/MatheusApresi)
+  <a href="https://github.com/MatheusApresi">
+    <img src="https://readme-typing-svg.demolab.com?color=C9D1D9&center=true&vCenter=true&lines=OLA+MUNDO!!!+👋;Me+chamo+Matheus+Henrique" />
+  </a>
 </p>
 
 <p align="center">
