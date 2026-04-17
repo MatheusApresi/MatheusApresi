@@ -70,18 +70,6 @@
 
 ---
 
-## 🐍 Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusApresi/MatheusApresi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusApresi/MatheusApresi/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/MatheusApresi/MatheusApresi/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## ✨ Objetivo
 
 Busco evoluir continuamente como desenvolvedor, criando soluções funcionais, bem estruturadas e que realmente façam diferença no dia a dia de quem usa o sistema.
