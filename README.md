@@ -41,8 +41,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusApresi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusApresi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusApresi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusApresi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusApresi&theme=tokyonight" />
 </p>
 
 <p align="center">
